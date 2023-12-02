@@ -1,0 +1,40 @@
+﻿# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build and bin directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+
+# Ignore Visual Studio files
+.vs/
+*.vshost.*
+*.obj
+*.pdb
+*.cache
+*.ilk
+*.log
+*.exe
+*.msi
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore settings configuration files
+appsettings.*
+
+# Ignore publish profiles
+PublishProfiles/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore other miscellaneous files
+[Tt]humbs.db
+*.DS_Store
